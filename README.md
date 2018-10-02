@@ -1,0 +1,2 @@
+# Red-Inal-mbrica-para-Swarm-Robotics
+Contiene los códigos de C++ y C realizados para la plataforma de pruebas de Swarm Robotics desarrollada en la Universidad del Valle de Guatemala. El código de C++ crea la conexión TCP con Sockets Asíncronos y también tiene el código para conectarse a una base de datos con PostgreeSQL, el código en C realiza el proceso de comunicación entre un microcontrolador PIC16F88 y el módulo WiFi ESP8266.
